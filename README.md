@@ -3,6 +3,7 @@
 ## I'm a B.Tech Computer Science Student and a Web Developer!!
 
 - 🔭 Check out my Portfolio:[Sajal Sharma][website]
+- 🥅 I am proficient in Web Development and Cloud Computing
 - 🌱 I’m currently learning Data Structures
 - 👯 I’m looking for oppertunities to upskill myself
 - ⚡ Hobbies: I love to solve Rubik's cubes and read intruging novels
