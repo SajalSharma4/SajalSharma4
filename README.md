@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there, I'm [Sajal Sharma][website] 👋 
+
+## I'm a B.Tech Computer Science Student and a Web Developer!!
+
+- 🔭 Check out my Portfolio:[Sajal Sharma][website]
+- 🌱 I’m currently learning Data Structures
+- 👯 I’m looking for oppertunities to upskill myself
+- ⚡ Hobbies: I love to solve Rubik's cubes and read intruging novels
 
 <!--
 **SajalSharma4/SajalSharma4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[website]: https://sajal-sharma.netlify.app
