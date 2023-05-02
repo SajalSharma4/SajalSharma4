@@ -19,6 +19,7 @@
   <a href="https://www.instagram.com/sajal_.sharma/" target="_blank" rel="noopener noreferrer" title="Instagram"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png" alt="Linkedin" height="45" width="45" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sharma-sajal" target="_blank" rel="noopener noreferrer" title="Linkedin"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" alt="Linkedin" height="45" width="45" /></a>&nbsp;&nbsp;
  </div>
+ 
  <br/>
  
 <!-- Language & Technology -->
@@ -28,20 +29,30 @@
 <img src="https://skillicons.dev/icons?i=java,python,javascript,dart,html,css,scss,react,redux,next,tailwind,fastapi,express,git,github,postgres,mongo,mysql,docker,aws,azure,php,nodejs,mui">
 </h2>
 
+ <br/>
+ 
 <!--Github Statistics-->
 
 ## 📈 GitHub Statistics
 
 <table align = "center">
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=SajalSharma4&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=synthwave"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SajalSharma4&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=great-gatsby"/>
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SajalSharma4&show_icons=true&locale=en&layout=compact&theme=synthwave" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SajalSharma4&show_icons=true&locale=en&layout=compact&theme=great-gatsby" />
 </td>
 </table>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SajalSharma4&theme=synthwave" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SajalSharma4&theme=great-gatsby" />
 </p>
 
+<br/>
+
+<!-- Profile Views -->
+
+## 👀Profile Views  &nbsp; <img align = "center" src="https://profile-counter.glitch.me/SajalSharma4/count.svg" />
+
+</h2>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
