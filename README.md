@@ -8,19 +8,19 @@
 - 👯 I’m looking for oppertunities to upskill myself
 - ⚡ Hobbies: I love to solve Rubik's cubes and read intruging novels
 
-<!--
-**SajalSharma4/SajalSharma4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials:
+<div align="left" style="margin: 20px;">
+  <a href="mailto:sharma_sajal@outlook.com?subject=Hello%20Sajal,%20From%20Github"><img align="center" src="https://www.freepnglogos.com/uploads/logo-outlook/transparent-outlook-icon-2.png" alt="Outlook" height="35" width="45" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sharma-sajal"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" alt="Linkedin" height="35" width="45" /></a>&nbsp;&nbsp;
+ </div>
+ 
+ 
+<!-- Language & Technology -->
 
-Here are some ideas to get you started:
+<h1 align = "left">⚡ Language & Technologies</h1>
+<h2 align="left">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript,golang,html,css,scss,react,redux,next,tailwind,nest,fastapi,express,flask,git,github,linux,bash,postgres,mongo,redis,mysql,firebase,docker,aws,heroku,vercel">
+</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [website]: https://sajal-sharma.netlify.app
