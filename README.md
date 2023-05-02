@@ -16,7 +16,7 @@
 ## 🌐 Socials
 <div align="left" style="margin: 20px;">
   <a href="mailto:sharma_sajal@outlook.com?subject=Hello%20Sajal,%20From%20Github" target="_blank" rel="noopener noreferrer" title="Mail"><img align="center" src="https://www.freepnglogos.com/uploads/logo-outlook/transparent-outlook-icon-2.png" alt="Outlook" height="45" width="45" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/sajal_.sharma/" target="_blank" rel="noopener noreferrer" title="Instagram"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png" alt="Linkedin" height="45" width="45" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/sajal_.sharma/" target="_blank" rel="noopener noreferrer" title="Instagram" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png" alt="Linkedin" height="45" width="45" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sharma-sajal" target="_blank" rel="noopener noreferrer" title="Linkedin"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" alt="Linkedin" height="45" width="45" /></a>&nbsp;&nbsp;
  </div>
  
